@@ -12,6 +12,7 @@ local.properties
 /app/release
 *.apk
 *.aab
+!Vocabuilder-v1.0.apk
 *.jks
 *.keystore
 word books/GaoKao_3500.json
