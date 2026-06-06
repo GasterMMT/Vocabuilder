@@ -14,3 +14,4 @@ local.properties
 *.aab
 *.jks
 *.keystore
+word books/GaoKao_3500.json
