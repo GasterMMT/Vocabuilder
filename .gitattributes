@@ -1,0 +1,16 @@
+# Fix GitHub language detection - mark auto-generated / third-party folders
+android/* linguist-vendored
+ios/* linguist-vendored
+linux/* linguist-vendored
+macos/* linguist-vendored
+windows/* linguist-vendored
+web/* linguist-vendored
+build/* linguist-vendored
+.dart_tool/* linguist-vendored
+.git/* linguist-vendored
+.claude/* linguist-vendored
+
+# Generated files
+*.g.dart linguist-generated=true
+*.freezed.dart linguist-generated=true
+pubspec.lock linguist-generated=true
